@@ -1,0 +1,6 @@
+{
+  "name": "SecureVPN Pro",
+  "description": "Fast, secure, easy-to-use premium VPN app with real-time stats, server selection, kill switch, speed tests, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
